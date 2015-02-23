@@ -32,5 +32,9 @@
       "name": "ggarret",
       "email": "garret.guillaume@gmail.com"
     }
-  ]
+  ],
+  "dependencies": {
+    "deferred": "0.7.1",
+    "request": "~2.x"
+  }
 }
