@@ -1,0 +1,36 @@
+{
+  "name": "grunt-mocha-slack-reporter",
+  "version": "0.0.1",
+  "description": "Mocha reporter that posts to Slack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCBrandenburg/mocha-slack-reporter.git"
+  },
+  "keywords": [
+    "grunt",
+    "mocha",
+    "reporter",
+    "slack",
+    "mocha",
+    "bot"
+  ],
+  "author": {
+    "name": "Garret Guillaume"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MCBrandenburg/mocha-slack-reporter/issues"
+  },
+  "homepage": "https://github.com/MCBrandenburg/mocha-slack-reporter",
+  "_npmUser": {
+    "name": "ggarret",
+    "email": "garret.guillaume@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "ggarret",
+      "email": "garret.guillaume@gmail.com"
+    }
+  ]
+}
