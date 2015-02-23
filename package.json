@@ -1,6 +1,6 @@
 {
   "name": "grunt-mocha-slack-reporter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mocha reporter that posts to Slack",
   "main": "index.js",
   "repository": {
